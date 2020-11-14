@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "связь",
-    "colorLabel": "тип",
+    "colorLabel": "модулярность",
     "nodeLabel": "тег"
   },
   "features": {
